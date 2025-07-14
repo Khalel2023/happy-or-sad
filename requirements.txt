@@ -1,0 +1,10 @@
+# Core Packages
+torch==2.0.1
+torchvision==0.15.2
+matplotlib==3.7.1
+Pillow==9.5.0
+requests==2.31.0
+
+# Development/Utils
+tqdm==4.65.0
+ipython==8.12.0
