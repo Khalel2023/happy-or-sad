@@ -4,7 +4,7 @@ simple ML project for detecting emotions(sad / smile )
 Данные взяты с Kaggle:  
 [ Emotions Dataset for NLP](https://www.kaggle.com/datasets/shamstabrezkhan/happy-and-sad-images-dataset-for-cnn)
 
-# Установка зависимосте
+# Установка зависимостей  
 ```bash
 pip install -r requirements.txt
 
